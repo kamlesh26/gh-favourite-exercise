@@ -1,4 +1,11 @@
+Foods:->
 Roti-Sabji
 Puri-Kari
 Daal-Chawal
 Aloo Paratha
+
+Movies:->
+Border-2
+Kantara-2
+Thamma
+Pushpa-2
